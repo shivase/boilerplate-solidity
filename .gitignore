@@ -1,0 +1,13 @@
+# directories
+artifacts
+build
+cache
+coverage
+node_modules
+typechain
+
+# files
+*.env
+*.log
+coverage.json
+gasReporterOutput.json

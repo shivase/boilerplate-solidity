@@ -1,0 +1,15 @@
+# directories
+artifacts
+build
+cache
+coverage
+dist
+node_modules
+typechain
+
+# files
+*.env
+*.log
+.pnp.*
+coverage.json
+gasReporterOutput.json

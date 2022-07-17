@@ -1,0 +1,18 @@
+# directories
+artifacts
+build
+cache
+coverage
+dist
+node_modules
+typechain
+gasReporterOutput.json
+
+# files
+*.env
+*.log
+coverage.json
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.*

@@ -1,0 +1,21 @@
+{
+  "printWidth": 80,
+  "tabWidth": 2,
+  "singleQuote": true,
+  "bracketSpacing": true,
+  "bracketSameLine": true,
+  "trailingComma": "es5",
+  "vueIndentScriptAndStyle": true,
+  "htmlWhitespaceSensitivity": "ignore",
+  "overrides": [
+    {
+      "files": "*.sol",
+      "options": {
+        "useTabs": false,
+        "singleQuote": false,
+        "bracketSpacing": false,
+        "explicitTypes": "always"
+      }
+    }
+  ]
+}

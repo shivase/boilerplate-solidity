@@ -1,0 +1,8 @@
+{
+  "*.{sol,ts,js,json}": [
+    "yarn prettier --write"
+  ],
+  "*.sol": [
+    "yarn solhint --max-warnings=0 --fix"
+  ]
+}
